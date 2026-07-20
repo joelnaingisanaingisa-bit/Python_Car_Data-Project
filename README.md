@@ -33,7 +33,7 @@ mpg) lead
 the field. The Chevrolet Equinox and Honda Pilot trail at 22 mpg — a
 68%
 efficiency gap between the best and worst performer.
-📊 q1_efficiency_ranking.png
+https://drive.google.com/file/d/1ZJHuBMg0CRf7g2Bk3KQFcDyEQ-ILvHkc/view?usp=drive_link
 # Q2 — How does engine size (cylinders) affect fuel
 efficiency?
 4-cylinder vehicles average 28.9 mpg versus 24.3 mpg for 6-
@@ -41,24 +41,25 @@ cylinder
 vehicles. Engine size alone is a meaningful but incomplete signal —
 some
 4-cylinder SUVs still perform worse than the 6-cylinder average.
-📊 q2_mpg_by_cylinders.png
+https://drive.google.com/file/d/1KX432t3VssstQfcju-hFag3jeu7IJDJP/view?usp=drive_link
 # Q3 — Is there a fuel-economy trade-off for horsepower?
 Yes: horsepower and mpg correlate at r = -0.75. Every additional
 unit of
 power comes at a measurable fuel-economy cost, confirming the
 classic
 performance-vs-efficiency trade-off.
-📊 q3_horsepower_vs_mpg.png
+https://drive.google.com/file/d/1cwOR7OIEosTQINPArKQnb0P9OnRqGuHd/view?usp=drive_link
 # Q4 — Does vehicle weight predict fuel efficiency?
 This is the strongest relationship in the dataset: r = -0.93. Weight is
 a
 better predictor of fuel economy than horsepower or engine size —
 heavier
 vehicles are consistently and predictably less efficient.
-📊 q4_weight_vs_mpg.png
+https://drive.google.com/file/d/1LKbXR39MJ8ZdXnb24448liI2KwJLd7Jm/view?usp=drive_link
 
 # Q5 — Which vehicles should we recommend to each client type?
 Vehicles were segmented into three classes to match client use
+https://drive.google.com/file/d/1jp91ewQydwByRIs_uaVmSH0MjUJz0f-x/view?usp=drive_link
 cases:
 
 Segment
