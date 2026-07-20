@@ -33,7 +33,8 @@ mpg) lead
 the field. The Chevrolet Equinox and Honda Pilot trail at 22 mpg — a
 68%
 efficiency gap between the best and worst performer.
-https://drive.google.com/file/d/1ZJHuBMg0CRf7g2Bk3KQFcDyEQ-ILvHkc/view?usp=drive_link
+<img width="1200" height="750" alt="q1_efficiency_ranking" src="https://github.com/user-attachments/assets/f2ef5c07-805d-44e0-8ef6-a88acf19fbf6" />
+
 # Q2 — How does engine size (cylinders) affect fuel
 efficiency?
 4-cylinder vehicles average 28.9 mpg versus 24.3 mpg for 6-
@@ -41,25 +42,28 @@ cylinder
 vehicles. Engine size alone is a meaningful but incomplete signal —
 some
 4-cylinder SUVs still perform worse than the 6-cylinder average.
-https://drive.google.com/file/d/1KX432t3VssstQfcju-hFag3jeu7IJDJP/view?usp=drive_link
+<img width="900" height="750" alt="q2_mpg_by_cylinders" src="https://github.com/user-attachments/assets/e97e1515-f8c7-4fc0-85ea-432f95a6ce16" />
+
 # Q3 — Is there a fuel-economy trade-off for horsepower?
 Yes: horsepower and mpg correlate at r = -0.75. Every additional
 unit of
 power comes at a measurable fuel-economy cost, confirming the
 classic
 performance-vs-efficiency trade-off.
-https://drive.google.com/file/d/1cwOR7OIEosTQINPArKQnb0P9OnRqGuHd/view?usp=drive_link
+<img width="1050" height="825" alt="q3_horsepower_vs_mpg" src="https://github.com/user-attachments/assets/ac2ead8d-d065-4ee4-9b88-7fb577018dff" />
+
 # Q4 — Does vehicle weight predict fuel efficiency?
 This is the strongest relationship in the dataset: r = -0.93. Weight is
 a
 better predictor of fuel economy than horsepower or engine size —
 heavier
 vehicles are consistently and predictably less efficient.
-https://drive.google.com/file/d/1LKbXR39MJ8ZdXnb24448liI2KwJLd7Jm/view?usp=drive_link
+<img width="1050" height="825" alt="q4_weight_vs_mpg" src="https://github.com/user-attachments/assets/58241b09-b55f-4484-a0e3-0eda30a9cd98" />
 
 # Q5 — Which vehicles should we recommend to each client type?
 Vehicles were segmented into three classes to match client use
-https://drive.google.com/file/d/1jp91ewQydwByRIs_uaVmSH0MjUJz0f-x/view?usp=drive_link
+<img width="1050" height="750" alt="q5_segment_recommendation" src="https://github.com/user-attachments/assets/7ee1fe7c-741c-4ae8-b1ad-2aebe39bfa25" />
+
 cases:
 
 Segment
